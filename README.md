@@ -1,7 +1,9 @@
 # Coin_Detection-
 
-# NAME : SANJAY V
-# REG NO : 212223230188
+
+
+# Name: Sanjay V
+# Reg no : 212223230188
 
 # Aim:
 
