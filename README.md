@@ -107,9 +107,10 @@ print(f"Number of coins detected: {len(keypoints)}")
 
 <img width="397" height="435" alt="image" src="https://github.com/user-attachments/assets/041b47ed-34b8-4620-b74a-0df2a01dc430" />
 <img width="986" height="524" alt="image" src="https://github.com/user-attachments/assets/294b763d-349b-4666-b461-31b2b690886a" />
+<img width="1606" height="431" alt="image" src="https://github.com/user-attachments/assets/9cb559ce-cb28-45bd-ad91-2f6ff587753b" />
+
 <img width="397" height="435" alt="image" src="https://github.com/user-attachments/assets/024fb2f7-9c46-4107-a772-c465a0c2d010" />
-<img width="397" height="435" alt="image" src="https://github.com/user-attachments/assets/61d5c324-c837-4187-8a54-2e906988769a" />
-<img width="397" height="435" alt="image" src="https://github.com/user-attachments/assets/ac5cc26a-262b-4ae9-a6a9-296c64a141db" />
+
 
 # RESULT :
 Number of coins detected: 9
